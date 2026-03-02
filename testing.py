@@ -1,0 +1,1 @@
+print("Hello Vedyaaaaa Bat kaa grip nikalkenaa sidhaaaaaaaaaaaaa tereeeeeee Dashhh me") 
